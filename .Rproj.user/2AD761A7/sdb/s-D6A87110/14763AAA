@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: tigerhitteR\nType: Package\nTitle: Pre-Process of Time Series Data Set in R\nVersion: 1.1.0\nDate: 2016-07-08\nAuthor: Will Kuan <aiien61will@gmail.com>\nMaintainer: Will Kuan <aiien61will@gmail.com>\nDescription: Pre-process for discrete time series data set which is not continuous at the column\n    of 'date'. Refilling records of missing 'date' and other columns to the hollow data set so that\n    final data set is able to be dealt with time series analysis.\nLicense: GPL(>= 3)\nURL:https://github.com/Willdata/tigerhitteR\nLazyData: TRUE\nRoxygenNote: 5.0.1\nImports:openxlsx (>= 3.0.0), zoo (>= 1.7-13), Hmisc (>= 3.17-4), magrittr(>= 1.5)\nDepends:R (>= 3.3.1)\n",
+    "created" : 1475130959005.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3213534810",
+    "id" : "14763AAA",
+    "lastKnownWriteTime" : 1475131171,
+    "path" : "~/tigerhitteR/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "dcf"
+}
